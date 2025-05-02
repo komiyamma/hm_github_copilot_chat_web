@@ -1,0 +1,4 @@
+C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\bin\Release\HmGithubCopilotChatWeb.dll
+C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.dll

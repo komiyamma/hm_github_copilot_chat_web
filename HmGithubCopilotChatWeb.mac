@@ -26,7 +26,7 @@ const isOneAtTimeAIRenderPane = 1; // AI関連のレンダリング枠は(他の
 // --------------------------------------------------
 
 const renderPaneTargetName = "HmGithubCopilotChatWeb";
-    
+
 const currentMacroDirectory = currentmacrodirectory();
 
 const script = hidemaru.loadTextFile(currentMacroDirectory + "\\HmConvAIWeb.js");

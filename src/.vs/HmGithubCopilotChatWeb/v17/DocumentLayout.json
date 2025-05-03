@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HmGithubCopilotChatWeb||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F3BA-C62D-49B5-B774-5BC8FB09A872}|HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj|G:\\repogitory\\hm_github_copilot_chat_web\\src\\hmgithubcopilotchatweb\\hmgithubcopilotchatweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F3BA-C62D-49B5-B774-5BC8FB09A872}|HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj|solutionrelative:hmgithubcopilotchatweb\\hmgithubcopilotchatweb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F3BA-C62D-49B5-B774-5BC8FB09A872}|HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj|G:\\repogitory\\hm_github_copilot_chat_web\\src\\hmgithubcopilotchatweb\\clipboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C30F3BA-C62D-49B5-B774-5BC8FB09A872}|HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj|solutionrelative:hmgithubcopilotchatweb\\clipboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C30F3BA-C62D-49B5-B774-5BC8FB09A872}|HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj|g:\\repogitory\\hm_github_copilot_chat_web\\src\\hmgithubcopilotchatweb\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HmGithubCopilotChatWeb",
+              "DocumentMoniker": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj",
+              "RelativeDocumentMoniker": "HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj",
+              "ToolTip": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj",
+              "RelativeToolTip": "HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-03T15:29:56.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HmGithubCopilotChatWeb.cs",
+              "DocumentMoniker": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.cs",
+              "RelativeDocumentMoniker": "HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.cs",
+              "ToolTip": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.cs",
+              "RelativeToolTip": "HmGithubCopilotChatWeb\\HmGithubCopilotChatWeb.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:29:30.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClipBoard.cs",
+              "DocumentMoniker": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\HmGithubCopilotChatWeb\\ClipBoard.cs",
+              "RelativeDocumentMoniker": "HmGithubCopilotChatWeb\\ClipBoard.cs",
+              "ToolTip": "G:\\repogitory\\hm_github_copilot_chat_web\\src\\HmGithubCopilotChatWeb\\ClipBoard.cs",
+              "RelativeToolTip": "HmGithubCopilotChatWeb\\ClipBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:29:29.808Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

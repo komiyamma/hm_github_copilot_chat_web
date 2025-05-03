@@ -2,3 +2,7 @@ C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\bin\R
 C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.csproj.AssemblyReference.cache
 C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.csproj.CoreCompileInputs.cache
 C:\Users\master\source\repos\HmGithubCopilotChatWeb\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.dll
+G:\repogitory\hm_github_copilot_chat_web\src\HmGithubCopilotChatWeb\bin\Release\HmGithubCopilotChatWeb.dll
+G:\repogitory\hm_github_copilot_chat_web\src\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.csproj.AssemblyReference.cache
+G:\repogitory\hm_github_copilot_chat_web\src\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.csproj.CoreCompileInputs.cache
+G:\repogitory\hm_github_copilot_chat_web\src\HmGithubCopilotChatWeb\obj\Release\HmGithubCopilotChatWeb.dll

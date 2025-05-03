@@ -63,7 +63,7 @@ public partial class HmGithubCopilotChatWeb
         SendCtrlV();
     }
 
-    public void SendReturnVSync()
+    public void SendReturnSync()
     {
         SendReturn();
     }

@@ -36,11 +36,28 @@ eval(script);
 var processInfoFocus;
 processInfoFocus?.kill();
 
-// InputFieldへのフォーカスに失敗したらリフレッシュ
-// (これでGithub Copilotが自動で Input フィールドにフォーカスを移動してくれる)
-function focusInputFailDecorator() {
-    browserpanecommand({target:"_each", "refresh":1});
+const [major,minor,build] = hidemaruversion().split(".");
+
+// v9.50β4以降では、フォーカスに比較的自由に当てられる
+if (version() >= 950 && build >= 4) {
+    function onPrevKeySendDecorator() {
+        
+        try {
+            // Copilotのインプット枠へのフォーカス。手堅いが将来変更になるかも。これがなくても一応はuseInputTransferだけでフォーカスするハズ
+            browserpanecommand({target:"_each", focusinputfield:'#copilot-chat-textarea'});
+        } catch(e) {
+        }
+    }
+} else {
+    // InputFieldへのフォーカスに失敗したらリフレッシュ
+    // (これでGithub Copilotが自動で Input フィールドにフォーカスを移動してくれる)
+    function focusInputFailDecorator() {
+        browserpanecommand({target:"_each", "refresh":1});
+    }
 }
+
+
+
 
 doMain();
 

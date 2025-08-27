@@ -36,7 +36,6 @@ eval(script);
 var processInfoFocus;
 processInfoFocus?.kill();
 
-
 if (isVersionAtLeast(hidemaruversion(), "9.50.04")) {
     function onPrevKeySendDecorator() {
         

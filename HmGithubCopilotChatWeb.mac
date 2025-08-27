@@ -36,10 +36,8 @@ eval(script);
 var processInfoFocus;
 processInfoFocus?.kill();
 
-const [major,minor,build] = hidemaruversion().split(".");
 
-// v9.50β4以降では、フォーカスに比較的自由に当てられる
-if (version() >= 950 && build >= 4) {
+if (isVersionAtLeast(hidemaruversion(), "9.50.04")) {
     function onPrevKeySendDecorator() {
         
         try {

@@ -2,7 +2,7 @@
 
 ![HmGithubCopilotChatWeb latest release](https://img.shields.io/github/v/release/komiyamma/hm_github_copilot_chat_web)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-![Hidemaru 9.35](https://img.shields.io/badge/Hidemaru-v9.35-6479ff.svg)
+![Hidemaru 9.50β4](https://img.shields.io/badge/Hidemaru-v9.50.β4-6479ff.svg)
 
 Github Copilot Chat の Web版 を秀丸から直接利用する。超簡易版だがAPI経由ではないので、結果を自動処理できない。
 
